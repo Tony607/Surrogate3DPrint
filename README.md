@@ -2,5 +2,7 @@
 It is using jscad for modelling
 
 Is includes 
-1. 3DOF micro servo camera mount,
-2. Wide angle lens mount for the C920 camera
+<ul>
+<li>3DOF micro servo camera mount,
+<li>Wide angle lens mount for the C920 camera
+</ul>
